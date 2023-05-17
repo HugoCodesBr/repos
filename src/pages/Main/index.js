@@ -1,7 +1,9 @@
 import React from 'react';
 
+import { Title } from './styles';
+
 const Main = () => {
-  return <div>Main</div>;
+  return <Title>Main</Title>;
 };
 
 export default Main;
